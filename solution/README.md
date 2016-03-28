@@ -2,10 +2,6 @@
 
 ___Program.cs___
 
-Som synes är filhantering inte på något sätt komplicerat. Det viktigaste du behöver ta med dig från denna övning är att **alltid använda ett using-block** runt din filhanteringskod. 
-
-Förstås är också felhanteringen viktig! Mer eller mindre beroende på aktuell tillämpning men oftast mer, eftersom det finns en hel del detaljer som kan gå fel när vi sysslar med filer ...
-
 ```c#
 using System;
 
